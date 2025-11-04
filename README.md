@@ -1,5 +1,3 @@
-Got it — here’s a clean, **single-block** `README.md` ready for direct upload to your GitHub repo.
-This version correctly mentions **DR detection (not staging)** and includes dataset links, model usage, and authors.
 
 ---
 
