@@ -1,11 +1,11 @@
 ````markdown
-# DeepRetina: Automated Detection of Diabetic Retinopathy and Glaucoma using Retinal Fundus Images
+ DeepRetina: Automated Detection of Diabetic Retinopathy and Glaucoma using Retinal Fundus Images
 
 DeepRetina is a deep learning-based system for automated detection of Diabetic Retinopathy (DR) and Glaucoma using retinal fundus images. The project uses EfficientNet-B3 and EfficientNet-B4 backbones enhanced with Squeeze-and-Excitation (SE) attention, CLAHE preprocessing, and robust augmentation to achieve high diagnostic performance. This repository contains trained models, preprocessing and training scripts, and a demo for interactive inference. Note: this version performs DR detection (not DR staging).
 
 ---
 
-## Overview
+ Overview
 
 Retinal diseases such as Diabetic Retinopathy (DR) and Glaucoma are leading causes of irreversible blindness. DeepRetina provides an end-to-end pipeline for automatic screening from fundus images with the following key components:
 
@@ -18,7 +18,7 @@ Retinal diseases such as Diabetic Retinopathy (DR) and Glaucoma are leading caus
 
 ---
 
-## Authors
+ Authors
 
 - Arohi Agrawal (T009)  
 - Divyendra Singh (T022)  
@@ -28,7 +28,7 @@ Supervised by: Dr. Raj Gaurav Mishra, Assistant Professor, MPSTME, NMIMS Univers
 
 ---
 
-## Repository Structure
+ Repository Structure
 
 - DeepRetina/  
   - models/  
@@ -50,7 +50,7 @@ Supervised by: Dr. Raj Gaurav Mishra, Assistant Professor, MPSTME, NMIMS Univers
 
 ---
 
-## Datasets Used
+ Datasets Used
 
 - **Eye Diseases Classification** — Diabetic Retinopathy and Glaucoma classification  
   https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
@@ -59,7 +59,7 @@ All datasets were cleaned using MD5 and Perceptual Hashing (pHash) to remove dup
 
 ---
 
-## Installation & Setup
+ Installation & Setup
 
 1. Clone the repository:
    ```bash
@@ -87,7 +87,7 @@ All datasets were cleaned using MD5 and Perceptual Hashing (pHash) to remove dup
 
 ---
 
-## Running the Demo
+ Running the Demo
 
 To run the interactive demo:
 
