@@ -1,0 +1,2 @@
+# DeepRetina-Automated-Detection-and-Staging-of-DR-and-Glaucoma-using-Retinal-Fundus-Images
+DeepRetina is a deep learning–based system for automated detection of DR and Glaucoma from retinal fundus images. The project leverages EfficientNet-B4 and EfficientNet-B3 architectures enhanced with Squeeze-and-Excitation (SE) attention modules to improve focus on disease-relevant retinal regions such as the optic disc and macula.
