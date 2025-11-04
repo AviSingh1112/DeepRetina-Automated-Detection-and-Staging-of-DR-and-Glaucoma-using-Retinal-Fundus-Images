@@ -192,5 +192,3 @@ Arohi Agrawal, Divyendra Singh, and Kashish Wadhwani.
 "DeepRetina: Automated Detection of Diabetic Retinopathy and Glaucoma using Retinal Fundus Images."
 Capstone Project Report, MPSTME, NMIMS University, 2025.
 
-```
-```
